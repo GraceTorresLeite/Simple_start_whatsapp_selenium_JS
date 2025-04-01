@@ -1,4 +1,4 @@
-# Abrindo navegador Chrome pla automação do Selenium-webdriver
+# Abrindo navegador Chrome pela automação do Selenium-webdriver
 
 | Step    | Objetivo                                                                                | Check |
 | ------- | -------------------------------------------------------------------------------------   | ------|
