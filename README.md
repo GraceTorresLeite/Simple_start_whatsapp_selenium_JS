@@ -10,7 +10,7 @@
 |    6    | Para rodar no terminal                                                                          |
 |    7    |   * node .\nomeArquivo.js    (node .\Driver.js)                                         |   ✔   |
 
-### Main: Logar no WhatsApp e após scannear QRcode manter perfil logado no navegador em questão, mesmo após encerrar a sessão. 
+### Main: Logar no WhatsApp e após scannear QRcode manter perfil logado no navegador em questão, mesmo após fechar a aba. 
 
 ## [Site Node](https://nodejs.org/en/download)
 
