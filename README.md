@@ -1,6 +1,6 @@
 # Abrindo navegador Chrome pela automação do Selenium-webdriver
 
-| Step    | Steps                                                                                | Check |
+| Step    | Objetivos                                                                               | Check |
 | ------- | -------------------------------------------------------------------------------------   | ------|
 |    1    | Instalar IDE (neste exemplo VSCode)                                                     |   ✔   |
 |    2    | Instalar Node.js                                                                        |   ✔   |
